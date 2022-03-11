@@ -1,6 +1,6 @@
 ## Hi there :wave:, I'm Turgay.
 
-## I'm a Software Developer :computer:
+## I'm a Full Stack Developer :computer:
 
 ### :heart: I love coding. 
 ### :runner: I work every day to improve myself.
